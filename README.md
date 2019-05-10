@@ -9,7 +9,8 @@
 
 
 ### Tools
- [在线合并PDF文件。免费合并PDF文件 - iLovePDF](https://www.ilovepdf.com/zh-cn/merge_pdf)
+* 在线合并PDF文件。免费合并PDF文件 ：https://www.ilovepdf.com/zh-cn/merge_pdf
+* 合并PDF：pdfhttps://smallpdf.com/cn/merge-pdf
 
 
 ### License

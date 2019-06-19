@@ -23,6 +23,16 @@
 * [哪些网站帮你打开了新世界的大门？](https://www.zhihu.com/question/33889180)
 
 
+### 演讲等
+
+* TED
+
+* 网易公开课
+
+* 一席
+
+* 
+
 ### License
 
 Copyright (c) [ChungKing](https://github.com/HuangCongQing/learning-website). All rights reserved.

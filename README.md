@@ -15,6 +15,13 @@
 
 
 ### Tools
+
+* 有道云笔记
+* 幕布
+* 简书
+* 扫描全能王
+
+
 * 在线合并PDF文件。免费合并PDF文件 ：https://www.ilovepdf.com/zh-cn/merge_pdf
 * 合并PDF：pdfhttps://smallpdf.com/cn/merge-pdf
 * pdf编辑：https://smallpdf.com/edit-pdf
@@ -32,6 +39,22 @@
 * 一席
 
 * 
+
+### 英语
+
+* 墨墨背单词
+* 每日英语听力
+* 欧路词典
+* 可可英语
+* 轻听英语
+* 扇贝单词，扇贝听力
+* 微软小英口语大师
+* 百词斩
+* 有道翻译官
+* Guizlet
+* SmartNews
+* 日语五十音
+
 
 ### License
 

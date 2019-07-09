@@ -25,6 +25,8 @@
 * 在线合并PDF文件。免费合并PDF文件 ：https://www.ilovepdf.com/zh-cn/merge_pdf
 * 合并PDF：pdfhttps://smallpdf.com/cn/merge-pdf
 * pdf编辑：https://smallpdf.com/edit-pdf
+
+* 电脑扫描二维码：https://cli.im/deqr
 ### Links
 
 * [哪些网站帮你打开了新世界的大门？](https://www.zhihu.com/question/33889180)
